@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q7jSNF+FZJnTPp+wNM7nUvTa5KFgEkwn1hkEZeR6Hgk=",
+  "Source": "CICDPipeline",
+  "BasePath": "_content/CICDPipeline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
